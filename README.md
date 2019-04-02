@@ -1,6 +1,6 @@
 # GO Telegram Bot
 
-This is a simple code for implement telegram with bot 
+This is a simple code for implement Telegram Bot with Golang 
 
 ## Getting Started
 
@@ -28,6 +28,20 @@ const (
 )
 ```
 
+if you dont have KEY API, please open your Telegram and search "BotFather"
+and then start with command
+```
+/start
+```
+next make a new bot
+```
+/newbot
+```
+Then your BOT NAME, example
+```
+/hawkeye-bot
+```
+Gotcha, Use token to access the HTTP API:
 
 ## Running the tests
 
