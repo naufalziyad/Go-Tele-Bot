@@ -1,7 +1,7 @@
 # GO Telegram Bot
-![alt text](https://github.com/naufalziyad/Go-Tele-Bot/blob/master/go-tele.png)
-
 [![Go Report Card](https://goreportcard.com/badge/github.com/naufalziyad/Go-Tele-Bot)](https://goreportcard.com/report/github.com/naufalziyad/Go-Tele-Bot)
+
+![alt text](https://github.com/naufalziyad/Go-Tele-Bot/blob/master/go-tele.png)
 
 This is a simple code for implement Telegram Bot with Golang 
 
